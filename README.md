@@ -21,8 +21,8 @@ Pharma A+ is a comprehensive Pharmacy Management System developed by Arshvir usi
 * Instagram: @avarshvir
 * GitLab: 
 * Stack Overflow: 
-* Website: https://www.arshvir.w3spaces.com
-* Company Website: https://www.jaihodigital.w3spaces.com
+* Website: https://arshvir.w3spaces.com/
+* Company Website: https://jaihodigital.w3spaces.com
 # Getting Started
 To get started with Pharma A+, follow these steps:
 
