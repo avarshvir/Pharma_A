@@ -3,9 +3,9 @@
 Pharma A+ is a comprehensive Pharmacy Management System developed by Arshvir using the Java language and built with NetBeans IDE. It leverages the power of XAMPP for database management, ensuring robust and efficient operations.
 
 ## Features
-User Roles:
+# User Roles:
 
-Admin: Full control over the system, including managing users, configuring settings, and unrestricted access.
+* Admin: Full control over the system, including managing users, configuring settings, and unrestricted access.
 Pharmacist: Moderate access for managing medicines, sales, and related configurations.
 User/Customer: Limited access to functionalities like login, logout, registration, and purchasing medicines.
 GPL-3.0 License:
