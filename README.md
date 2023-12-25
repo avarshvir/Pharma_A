@@ -28,7 +28,7 @@ To get started with Pharma A+, follow these steps:
 
 * Clone the Repository:
 
-git clone https://github.com/yourusername/pharma-a-plus.git
+git clone https://github.com/avarshvir/pharma_a.git
 * Setup Database:
 
 Import the database schema using the provided SQL file.
